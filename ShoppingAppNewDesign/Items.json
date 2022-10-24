@@ -1,0 +1,145 @@
+{
+  "items": [
+    {
+      "itemName": "iPhone 14 Pro",
+      "price": "120000",
+      "imageStr": "iPhone.jpg"
+    },
+    {
+      "itemName": "M2 iPad Pro 12.9",
+      "price": "110000",
+      "imageStr": "iPad.jpg"
+    },
+    {
+      "itemName": "M2 Pro MacBook",
+      "price": "180000",
+      "imageStr": "MacBook.jpg"
+    },
+    {
+      "itemName": "Apple Watch",
+      "price": "60000",
+      "imageStr": "watch.jpg"
+    },
+    {
+      "itemName": "AMD5000 Ryzen9",
+      "price": "35000",
+      "imageStr": "AMD5000Series Ryzen9.jpg"
+    },
+    {
+      "itemName": "GEFORCE GTX 1660",
+      "price": "38000",
+      "imageStr": "INNO3DGEFORCEGTX1660.jpg"
+    },
+    {
+      "itemName": "Logitech k380 Keyboard",
+      "price": "3000",
+      "imageStr": "logitechk380.jpg"
+    },
+    {
+      "itemName": "AirPods Pro2",
+      "price": "24000",
+      "imageStr": "airpods.jpg"
+    },
+    {
+      "itemName": "Intel i9 12thGen",
+      "price": "40000",
+      "imageStr": "i912thGen.jpg"
+    },
+    {
+      "itemName": "Apple Pencil2",
+      "price": "11000",
+      "imageStr": "applePencil.jpg"
+    },
+    {
+      "itemName": "Apple EarPods",
+      "price": "2600",
+      "imageStr": "earPods.jpg"
+    },
+    {
+      "itemName": "Apple Magic Mouse",
+      "price": "6400",
+      "imageStr": "magicMouse.jpg"
+    },
+    {
+      "itemName": "Samsung Galaxy Watch 4",
+      "price": "12000",
+      "imageStr": "galaxyWatch.jpg"
+    },
+    {
+      "itemName": "Apple 20W Power adapter",
+      "price": "2000",
+      "imageStr": "apple20WCharger.jpg"
+    },
+    {
+      "itemName": "Apple Magic keyboard",
+      "price": "9500",
+      "imageStr": "magicKeyboard.jpg"
+    },
+    {
+      "itemName": "Samsung Galaxy S22",
+      "price": "60000",
+      "imageStr": "galaxyS22.jpg"
+    },
+    {
+      "itemName": "Apple Watch Series 7",
+      "price": "40900",
+      "imageStr": "appleWatch7.jpg"
+    },
+    {
+      "itemName": "Apple M1 iMac",
+      "price": "119000",
+      "imageStr": "iMac.jpg"
+    },
+    {
+      "itemName": "Apple Mac mini M1",
+      "price": "64900",
+      "imageStr": "macMini.jpg"
+    },
+    {
+      "itemName": "pro Display XDR",
+      "price": "600000",
+      "imageStr": "proDisplay.jpg"
+    },
+    {
+      "itemName": "Apple Mac Pro",
+      "price": "500000",
+      "imageStr": "macPro.jpg"
+    },
+    {
+      "itemName": "Apple AirTag",
+      "price": "3000",
+      "imageStr": "airTag.jpg"
+    },
+    {
+      "itemName": "Apple AirPods2",
+      "price": "13000",
+      "imageStr": "airPodsTwo.jpg"
+    },
+    {
+      "itemName": "HomePod Mini",
+      "price": "20000",
+      "imageStr": "homePod.png"
+    },
+    {
+      "itemName": "Sony HTIV300",
+      "price": "24000",
+      "imageStr": "sonyHTIV300.jpeg"
+    },
+    {
+      "itemName": "Sandisk 512GB",
+      "price": "6000",
+      "imageStr": "sandisk512gb.jpg"
+    },
+    {
+      "itemName": "LG OLED 4k",
+      "price": "60000",
+      "imageStr": "lgOLED4k.jpg"
+    },
+    {
+      "itemName": "Sony alpha 6400L",
+      "price": "70000",
+      "imageStr": "sonyAlphaILCE-6400L.jpg"
+    }
+    
+  ]
+}
